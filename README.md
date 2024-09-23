@@ -9,7 +9,7 @@
 <br/>
 <img align="right" height="220px" src="https://blog.emma-z-hu.com/logo/imemma-z-hu.gif" alt="emma-z-hu" />
 
--🎓 I have a BComm and Master in Business and Accounting 
+- 🎓 I have a BComm and Master in Business and Accounting 
 - 💬 Ask me about my journey transitioning from accounting to product management and software engineering
 - 👀 I’m interested in technological innovations, especially within financial industries and education
 - 🔭 I’m currently working on **[z-lingo](https://github.com/emma-z-hu/z-lingo)**
