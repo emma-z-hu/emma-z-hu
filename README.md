@@ -12,11 +12,10 @@
 - 🎓 I have a BComm and Master in Business and Accounting 
 - 💬 Ask me about my journey transitioning from accounting to product management and software engineering
 - 👀 I’m interested in technological innovations, especially within financial industries and education
-- 🔭 I’m currently working on **[z-lingo](https://github.com/emma-z-hu/z-lingo)**
+- 👨‍💻 I’m currently working on **[z-lingo](https://github.com/emma-z-hu/z-lingo)**
 - 🌱 I’m currently learning **JaveScript**
 - 💡 I want to learn **TypeScript**, **Next.js**, and **Nest.js** next.
-- 👨‍💻 All of my projects are available at [https://github.com/emma-z-hu](https://github.com/emma-z-hu)
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/emma-z-hu"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white"></a>
+- 📫 Reach me at <a href="https://www.linkedin.com/in/emma-z-hu"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white"></a>
 - ⚡ Fun fact: I'm a **certified ski instructor**. I also teach at University of Toronto as an **Instructor Assistant.**
 - 🖊️ My portfolio is under construction. 
 
