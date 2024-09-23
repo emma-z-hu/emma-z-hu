@@ -24,13 +24,13 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,nodejs,express,mysql,firebase,git,github,materialui,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,nodejs,express,mysql,git,github,postman,figma" />
   </a>
 </p>
 
 <h4 align="center">Others:</h4>
 <p align="center">
-  Product Management, Product Management, Agile methodologies, Jira, Figma
+  Product Management, Agile Methodology, Jira
   Data Analytics, Tableau
 </p>
 
