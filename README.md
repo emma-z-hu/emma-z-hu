@@ -17,7 +17,7 @@
 - 💡 I want to learn **TypeScript**, **Next.js**, and **Nest.js** next.
 - 📫 Reach me at <a href="https://www.linkedin.com/in/emma-z-hu"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white"></a>
 - ⚡ Fun fact: I'm a **certified ski instructor**. I also teach at University of Toronto as an **Instructor Assistant.**
-- 🖊️ My portfolio is under construction. 
+- 🖊️ Learn slighly more about me at https://emmahu.me/. 
 
 
 
